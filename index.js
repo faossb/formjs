@@ -3,7 +3,7 @@ const recruitmentData =
 [ 
     
         {
-         "category": "Nfavy",
+         "category": "Navy",
          "entries": "Short Service Commission (SSC)",
          "qualification": "Graduation",
          "stream": "BE, BTECH",
