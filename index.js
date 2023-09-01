@@ -457,7 +457,7 @@ const recruitmentData =
              "type": "Commission",
              "percentage": 45,
              "gender": "Male,Female",
-             "height_male": '157',
+             "height_male": "157",
              "height_female": "157",
              "apply_month": "June,December",
              "caste": "Open",
